@@ -18,11 +18,11 @@ Installing all the dependencies you have to download these:
 You'll figure it out.
 
 3. What are the bot commands?
-!help: Displays a help message with a list of commands.
-!viewfiles: Shows the sizes of important files like learned_words.json and messageHistory.json.
-!randomword german: Gives a random German word and its English translation.
-!stats: Displays the bot's stats, such as the most used word by the user and their online/offline status.
-!stats @username: Displays the stats of the mentioned user (most used word and online/offline status).
+-!help: Displays a help message with a list of commands.
+-!viewfiles: Shows the sizes of important files like learned_words.json and messageHistory.json.
+-!randomword german: Gives a random German word and its English translation.
+-!stats: Displays the bot's stats, such as the most used word by the user and their online/offline status.
+-!stats @username: Displays the stats of the mentioned user (most used word and online/offline status).
 
 4. How do we replace the German Words?
 Download somewhere on the internet a list of words from whatever language you want and replace the file and all the things mentioning it in the code.
